@@ -2,7 +2,8 @@
 Simple flatlist interpolate animation. Trying to animate text position based on x value from the screen width. 
 
 ## Screenshots and Preview
-<img src="https://user-images.githubusercontent.com/33638021/117523726-1b476480-afe4-11eb-98a0-f0071980a6ce.png" height="400" alt="Cover Image">
+<img src="https://user-images.githubusercontent.com/33638021/117523726-1b476480-afe4-11eb-98a0-f0071980a6ce.png" height="400" alt="Cover Image"> &nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/33638021/118109154-05360b80-b40b-11eb-808e-dd85cc54162a.gif" height="400" alt="Cover Image">
+
 
 ## Installation
 Clone repo by typing this command on your terminal
