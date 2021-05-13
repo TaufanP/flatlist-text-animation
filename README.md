@@ -20,5 +20,5 @@ Connect your device with Expo App
 You can check the other useful post on my [Instagram](https://www.instagram.com/profennador/ "Profennador on Instagram")
 
 ## License
-Copyright (c) 2021 [Taufan Prihantoro](https://github.com/TaufanP "Github TaufanP")\
+2021 [Taufan Prihantoro](https://github.com/TaufanP "Github TaufanP")\
 Licensed under the [MIT License](https://github.com/TaufanP/flatlist-text-animation/blob/main/LICENSE "MIT License")
